@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vbwk8/CrzSiVuV/+6Oa84+STfE9zvxtF5b2GrczBcfv8S3zX3s6OSoAtm6K2Zla3NVMXJFmI4v/tndUdM1YkwA==",
+  "success": true,
+  "projectFilePath": "/home/jaozzy/Área de trabalho/apps/prog/projetos/ger-servico/ger-servico/ger-servico.csproj",
+  "expectedPackageFiles": [
+    "/home/jaozzy/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/jaozzy/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/jaozzy/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.8/microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
